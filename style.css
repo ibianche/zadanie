@@ -1,0 +1,14 @@
+.text {
+	text-align: center;
+	font-size: 25px;
+	background: pink;
+	line-height: 1.2;
+}
+.title {
+	text-align: center;
+	font-size: 40px;
+	background: white;
+}
+.body {
+	background: pink;
+}
